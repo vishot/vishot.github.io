@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimize for Happiness
+title: FFmpeg Command Prime
 ---
 
 {{ page.title }}
